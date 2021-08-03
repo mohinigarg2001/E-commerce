@@ -1,0 +1,15 @@
+.products{
+    margin: 5px auto;
+}
+
+
+.card img{
+    padding: 25px;
+    height: 220px;
+
+}
+.products .card img{
+    margin:15px;
+    /* text-align: center; */
+    margin:5px auto;
+}
